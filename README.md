@@ -1,4 +1,4 @@
-# Suicide Rate Prediction using Machine Learning
+# Air Quantity Index (AQI) Based on Cities using Machine Learning
 
 ## Discription
 
